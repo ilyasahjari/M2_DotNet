@@ -1,0 +1,16 @@
+C:\Users\Dell\Documents\M2 e-service\Dot Net\rendu\AHJARI_ilyas\Exam\Exam.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Dell\Documents\M2 e-service\Dot Net\rendu\AHJARI_ilyas\Exam\Exam.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Dell\Documents\M2 e-service\Dot Net\rendu\AHJARI_ilyas\Exam\Exam.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Dell\Documents\M2 e-service\Dot Net\rendu\AHJARI_ilyas\Exam\Exam.Tests\bin\Debug\netcoreapp2.1\Exam.Tests.deps.json
+C:\Users\Dell\Documents\M2 e-service\Dot Net\rendu\AHJARI_ilyas\Exam\Exam.Tests\bin\Debug\netcoreapp2.1\Exam.Tests.runtimeconfig.json
+C:\Users\Dell\Documents\M2 e-service\Dot Net\rendu\AHJARI_ilyas\Exam\Exam.Tests\bin\Debug\netcoreapp2.1\Exam.Tests.runtimeconfig.dev.json
+C:\Users\Dell\Documents\M2 e-service\Dot Net\rendu\AHJARI_ilyas\Exam\Exam.Tests\bin\Debug\netcoreapp2.1\Exam.Tests.dll
+C:\Users\Dell\Documents\M2 e-service\Dot Net\rendu\AHJARI_ilyas\Exam\Exam.Tests\bin\Debug\netcoreapp2.1\Exam.Tests.pdb
+C:\Users\Dell\Documents\M2 e-service\Dot Net\rendu\AHJARI_ilyas\Exam\Exam.Tests\bin\Debug\netcoreapp2.1\Exam.Impl.dll
+C:\Users\Dell\Documents\M2 e-service\Dot Net\rendu\AHJARI_ilyas\Exam\Exam.Tests\bin\Debug\netcoreapp2.1\Exam.Impl.pdb
+C:\Users\Dell\Documents\M2 e-service\Dot Net\rendu\AHJARI_ilyas\Exam\Exam.Tests\obj\Debug\netcoreapp2.1\Exam.Tests.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\M2 e-service\Dot Net\rendu\AHJARI_ilyas\Exam\Exam.Tests\obj\Debug\netcoreapp2.1\Exam.Tests.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\M2 e-service\Dot Net\rendu\AHJARI_ilyas\Exam\Exam.Tests\obj\Debug\netcoreapp2.1\Exam.Tests.AssemblyInfo.cs
+C:\Users\Dell\Documents\M2 e-service\Dot Net\rendu\AHJARI_ilyas\Exam\Exam.Tests\obj\Debug\netcoreapp2.1\Exam.Tests.csproj.CopyComplete
+C:\Users\Dell\Documents\M2 e-service\Dot Net\rendu\AHJARI_ilyas\Exam\Exam.Tests\obj\Debug\netcoreapp2.1\Exam.Tests.dll
+C:\Users\Dell\Documents\M2 e-service\Dot Net\rendu\AHJARI_ilyas\Exam\Exam.Tests\obj\Debug\netcoreapp2.1\Exam.Tests.pdb
